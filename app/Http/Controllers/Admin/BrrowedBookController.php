@@ -45,6 +45,6 @@ class BrrowedBookController extends Controller
       $book->update();
 
       BorrowedBook::where('user_id',Auth::user()->id)->where('book_id',$book->id)->delete();
-      return redirect()->back()->with('success','Thanks for reurn');
+      return redirect()->back()->with('success','Thanks for return');
    }
 }

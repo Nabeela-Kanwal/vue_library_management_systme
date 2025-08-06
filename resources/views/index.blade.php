@@ -182,7 +182,7 @@
             Books Categories
           </h2>
           <p>
-            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
+            There are many Book Available in Our Library.
           </p>
         </div>
         <div class="row">
@@ -196,9 +196,7 @@
                   Textbooks
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                  The
-                  point of using
+                This textbook aims to equip you with a comprehensive understanding of Computer Science essentials, 
                 </p>
               </div>
             </div>
@@ -213,9 +211,7 @@
                   Science
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                  The
-                  point of using
+                Welcome to the enthralling world of science, where curiosity leads to discovery and understanding the mysteries of our universe becomes an exhilarating journey.
                 </p>
               </div>
             </div>
@@ -230,9 +226,7 @@
                   History
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                  The
-                  point of using
+                Embark on a journey to the cradle of civilizations, exploring the rich heritage of ancient Mesopotamia, Egypt, Greece, and Rome that laid the foundations for human progress.
                 </p>
               </div>
             </div>
@@ -247,9 +241,7 @@
                   Biography
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                  The
-                  point of using
+                Embark on a journey into the microscopic realm, exploring the astonishing complexity of cells, the fundamental units that orchestrate life's processes.
                 </p>
               </div>
             </div>
@@ -264,9 +256,7 @@
                   Adventure
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                  The
-                  point of using
+                Embark on expeditions to uncharted lands, uncovering hidden treasures, ancient ruins, and mysterious civilizations lost to time.
                 </p>
               </div>
             </div>
@@ -278,12 +268,10 @@
               </div>
               <div class="detail-box">
                 <h5>
-                  Fantasy
+                  Programming
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                  The
-                  point of using
+                Begin your coding journey by diving into the fundamental concepts, syntax, and logic that form the bedrock of programming languages
                 </p>
               </div>
             </div>
@@ -386,16 +374,7 @@
 
   <!-- end info section -->
 
-  <!-- footer section -->
-  <footer class="footer_section">
-    <div class="container">
-      <p>
-      Designed by <a href="https://intelliwaresoft.com/">Intelliwaresoft</a>
 
-      </p>
-    </div>
-  </footer>
-  <!-- footer section -->
 
   <!-- jQery -->
   <script src="{{asset('user_panel/js/jquery-3.4.1.min.js')}}"></script>

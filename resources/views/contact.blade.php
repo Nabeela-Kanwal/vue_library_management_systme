@@ -203,16 +203,7 @@
 
   <!-- end info section -->
 
-  <!-- footer section -->
-  <footer class="footer_section">
-    <div class="container">
-      <p>
-      Designed by <a href="https://intelliwaresoft.com/">Intelliwaresoft</a>
-
-      </p>
-    </div>
-  </footer>
-  <!-- footer section -->
+  
 
   <!-- jQery -->
   <script src="{{asset('user_panel/js/jquery-3.4.1.min.js')}}"></script>

@@ -57,9 +57,7 @@
                 </div>
               </div>
 
-              <div class="credits">
-                  Designed by <a href="https://intelliwaresoft.com/">Intelliwaresoft</a>
-              </div>
+             
 
             </div>
           </div>
